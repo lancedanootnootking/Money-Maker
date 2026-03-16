@@ -1,1 +1,1 @@
-python3 google_maps_scraper.py  
+finds businesses without websites
